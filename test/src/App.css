@@ -1,0 +1,15 @@
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.product-detail {
+  padding: 20px;
+}
